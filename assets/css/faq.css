@@ -46,8 +46,6 @@
 
 .welcome-img {
   padding: 4px;
-  border: 2px solid var(--tertiary-red);
-  border-radius: 5px;
 }
 .welcome-i {
   max-width: 100%; /* or any custom size */
