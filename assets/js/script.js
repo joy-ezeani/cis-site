@@ -1,12 +1,4 @@
-function triggerBtnClick(){
-  document.getElementsByClassName('reload-btn').click()
-}
 
-// Pre-loader js
-window.onload = function () {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("content").style.display = "block";
-};
 
 // -----------menu click js----------
 
