@@ -514,7 +514,7 @@
   }
   .value0 p {
     left: 12%;
-    top: 16%;
+    top: 15%;
   }
   .value1 {
     height: 120px;
@@ -560,6 +560,9 @@
     width: 120px;
     right: 10%;
     top: 48%;
+  }
+   .value5 p{
+   left: 17%;
   }
   .value6 {
     height: 130px;
